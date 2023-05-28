@@ -32,6 +32,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![image](https://github.com/PriyankaAnnadurai/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118351569/4487daad-4b52-4c52-b8a3-594b78afb573)
 
 ### Name: PRIYANKA.A
 ### Register Number: 212222230113
